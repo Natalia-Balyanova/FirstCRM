@@ -6,7 +6,7 @@ a. https://www.ibm.com/developerworks/downloads/r/architect/index.html
 b. https://www.modelio.org/downloads/download-modelio.html
 c. http://staruml.io/
 
-установлен VisualParadigm и на всякий случай Modelio. Но пока непонятно как работать в них
+установлен VisualParadigm и на всякий случай Modelio
 
 2. Выбрать архитектуру домашнего CRM или ERP приложения. Обосновать выбранное решение.
 
